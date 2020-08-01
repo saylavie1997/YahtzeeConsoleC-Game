@@ -1,0 +1,12 @@
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/bin/Debug/netcoreapp3.1/MyYatzy.deps.json
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/bin/Debug/netcoreapp3.1/MyYatzy.runtimeconfig.json
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/bin/Debug/netcoreapp3.1/MyYatzy.runtimeconfig.dev.json
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/bin/Debug/netcoreapp3.1/MyYatzy.dll
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/bin/Debug/netcoreapp3.1/MyYatzy.pdb
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.csprojAssemblyReference.cache
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.csproj.CoreCompileInputs.cache
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.AssemblyInfoInputs.cache
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.AssemblyInfo.cs
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.dll
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.pdb
+/Users/Jacob/Projects/MyYatzySolution/MyYatzy/obj/Debug/netcoreapp3.1/MyYatzy.genruntimeconfig.cache
